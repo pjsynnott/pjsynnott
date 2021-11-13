@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paul Synnott
-- 👀 Currently learning and interested in Linx, Python, DevOps, HTML, CSS, JavaScript, SQL.
-- 👀 Planning and working on a number of small projects using the above technoogies.
+- 👀 Currently learning and interested in Linx, Python, HTML, CSS, JavaScript, SQL, containers, virtualisation.
+- 👀 Planning and working on a number of small projects using the above technologies.
 - 💞️ I’m looking to collaborate on anything interesting relating to the above.
 - 📫 Contactable at pjsynnott(AT)gmail(DOT)com
 
